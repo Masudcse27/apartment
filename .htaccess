@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^admin$ admin.php [L]
+RewriteRule ^manager$ manager.php [L]
+RewriteRule ^complain$ drop-complain.php [L]

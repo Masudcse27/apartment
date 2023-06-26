@@ -1,0 +1,15 @@
+.custom__a {
+    color: #666666;
+}
+.custom__a:hover {
+    color: #333333;
+}
+
+.building__header {
+    display: flex;
+    gap: 2vh;
+}
+
+.deedimg {
+    object-fit: cover;
+}
